@@ -84,7 +84,7 @@ tornado==6.0.4
 tqdm==4.45.0
 traitlets==4.3.3
 typing-extensions==3.7.4.1
-urllib3==1.25.9
+urllib3==1.26.5
 vega-datasets==0.7.0
 vincent==0.4.4
 voila==0.1.21
